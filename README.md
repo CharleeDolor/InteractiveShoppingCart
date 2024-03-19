@@ -1,4 +1,4 @@
-# my-shopping-cart
+# Interactive Shopping Cart
 
 ## Project setup
 ```
